@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student in Institut Informatika Indonesia (IKADO) Surabaya
+I'm a student at Institut Informatika Indonesia (IKADO) Surabaya
 
 <!--
 **Ansco343/Ansco343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
